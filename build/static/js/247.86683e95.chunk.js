@@ -1,0 +1,3 @@
+/*! For license information please see 247.86683e95.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkbiorhythm_calculator=self.webpackChunkbiorhythm_calculator||[]).push([[247],{2247:(t,e,r)=>{r.r(e),r.d(e,{startStatusTap:()=>a});var n=r(2108),o=r(7721),s=r(9384);const a=()=>{const t=window;t.addEventListener("statusTap",(()=>{(0,n.gv)((()=>{const e=t.innerWidth,r=t.innerHeight,a=document.elementFromPoint(e/2,r/2);if(!a)return;const c=(0,o.a)(a);c&&new Promise((t=>(0,s.c)(c,t))).then((()=>{(0,n.bN)((async()=>{c.style.setProperty("--overflow","hidden"),await(0,o.s)(c,300),c.style.removeProperty("--overflow")}))}))}))}))}}}]);
+//# sourceMappingURL=247.86683e95.chunk.js.map
